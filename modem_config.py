@@ -11,7 +11,7 @@ from datetime import datetime
 # CONFIGURACION
 # ==========================================================
 
-SERIAL_PORT = "/dev/ttyAMA3"
+SERIAL_PORT = "/dev/ttyACM0"
 BAUDRATE = 9600
 JSON_FILE = "/home/pi/config_modem.json"
 
@@ -73,8 +73,8 @@ def open_serial():
             port=SERIAL_PORT,
             baudrate=BAUDRATE,
             bytesize=serial.EIGHTBITS,
-            parity=serial.PARITY_EVEN,
-            stopbits=serial.STOPBITS_TWO,
+            parity=serial.PARITY_NONE,
+            stopbits=serial.STOPBITS_ONE,
             timeout=TIMEOUT
         )
 
