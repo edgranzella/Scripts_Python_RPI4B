@@ -1,0 +1,10351 @@
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=90 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=90
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=91 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=91
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=92 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=92
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=93 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=93
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=94 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=94
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=95 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=95
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=96 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=96
+
+[UDP-TX] seq=97 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=97
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=98 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=98
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=99 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=99
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=100 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=100
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=101 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=101
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=102 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=102
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=103 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=103
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=104 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=104
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=105 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=105
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=106 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=106
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=107 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=107
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=108 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=108
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=109 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=109
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=110 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=110
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=111 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=111
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=112 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=112
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=113 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=113
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=114 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=114
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=115 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=115
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=116 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=116
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=117 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=117
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=118 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=118
+
+[UDP-TX] seq=119 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=119
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UART-ERR] count=4784 last=0x00
+
+[UART-ERR] count=4785 last=0x00
+
+[UART-ERR] count=4786 last=0x00
+
+[UART-ERR] count=4787 last=0x00
+
+[UART-ERR] count=4788 last=0x00
+
+[UART-ERR] count=4789 last=0x00
+
+[UART-ERR] count=4790 last=0x00
+
+[UART-ERR] count=4791 last=0x00
+
+[UART-ERR] count=4792 last=0x00
+
+[UART-ERR] count=4793 last=0x00
+
+[UART-ERR] count=4794 last=0x00
+
+[UART-ERR] count=4795 last=0x00
+
+[UART-ERR] count=4796 last=0x00
+
+[UART-ERR] count=4797 last=0x00
+
+[UART-ERR] count=4798 last=0x00
+
+[UART-ERR] count=4799 last=0x00
+
+[UART-ERR] count=4800 last=0x00
+
+[UART-ERR] count=4801 last=0x00
+
+[UART-ERR] count=4802 last=0x00
+
+[UART-ERR] count=4803 last=0x00
+
+[UART-ERR] count=4804 last=0x00
+
+[UART-ERR] count=4805 last=0x00
+
+[UART-ERR] count=4806 last=0x00
+
+[UART-ERR] count=4807 last=0x00
+
+[UART-ERR] count=4808 last=0x00
+
+[UART-ERR] count=4809 last=0x00
+
+[UART-ERR] count=4810 last=0x00
+
+[UART-ERR] count=4811 last=0x00
+
+[UART-ERR] count=4812 last=0x00
+
+[UART-ERR] count=4813 last=0x00
+
+[UART-ERR] count=4814 last=0x00
+
+[UART-ERR] count=4815 last=0x00
+
+[UART-ERR] count=4816 last=0x00
+
+[UART-ERR] count=4817 last=0x00
+
+[UART-ERR] count=4818 last=0x00
+
+[UART-ERR] count=4819 last=0x00
+
+[UART-ERR] count=4820 last=0x00
+
+[UART-ERR] count=4821 last=0x00
+
+[UART-ERR] count=4822 last=0x00
+
+[UART-ERR] count=4823 last=0x00
+
+[UART-ERR] count=4824 last=0x00
+
+[UART-ERR] count=4825 last=0x00
+
+[UART-ERR] count=4826 last=0x00
+
+[UART-ERR] count=4827 last=0x00
+
+[UART-ERR] count=4828 last=0x00
+
+[UART-ERR] count=4829 last=0x00
+
+[UART-ERR] count=4830 last=0x00
+
+[UART-ERR] count=4831 last=0x00
+
+[UART-ERR] count=4832 last=0x00
+
+[UART-ERR] count=4833 last=0x00
+
+[UART-ERR] count=4834 last=0x00
+
+[UART-ERR] count=4835 last=0x00
+
+[UART-ERR] count=4836 last=0x00
+
+[UART-ERR] count=4837 last=0x00
+
+[UART-ERR] count=4838 last=0x00
+
+[UART-ERR] count=4839 last=0x00
+
+[UART-ERR] count=4840 last=0x00
+
+[UART-ERR] count=4841 last=0x00
+
+[UART-ERR] count=4842 last=0x00
+
+[UART-ERR] count=4843 last=0x00
+
+[UART-ERR] count=4844 last=0x00
+
+[UART-ERR] count=4845 last=0x00
+
+[UART-ERR] count=4846 last=0x00
+
+[UART-ERR] count=4847 last=0x00
+
+[UART-ERR] count=4848 last=0x00
+
+[UART-ERR] count=4849 last=0x00
+
+[UART-ERR] count=4850 last=0x00
+
+[UART-ERR] count=4851 last=0x00
+
+[UART-ERR] count=4852 last=0x00
+
+[UART-ERR] count=4853 last=0x00
+
+[UART-ERR] count=4854 last=0x00
+
+[UART-ERR] count=4855 last=0x00
+
+[UART-ERR] count=4856 last=0x00
+
+[UART-ERR] count=4857 last=0x00
+
+[UART-ERR] count=4858 last=0x00
+
+[UART-ERR] count=4859 last=0x00
+
+[UART-ERR] count=4860 last=0x00
+
+[UART-ERR] count=4861 last=0x00
+
+[UART-ERR] count=4862 last=0x00
+
+[UART-ERR] count=4863 last=0x00
+
+[UART-ERR] count=4864 last=0x00
+
+[UART-ERR] count=4865 last=0x00
+
+[UART-ERR] count=4866 last=0x00
+
+[UART-ERR] count=4867 last=0x00
+
+[UART-ERR] count=4868 last=0x00
+
+[UART-ERR] count=4869 last=0x00
+
+[UART-ERR] count=4870 last=0x00
+
+[UART-ERR] count=4871 last=0x00
+
+[UART-ERR] count=4872 last=0x00
+
+[UART-ERR] count=4873 last=0x00
+
+[UART-ERR] count=4874 last=0x00
+
+[UART-ERR] count=4875 last=0x00
+
+[UART-ERR] count=4876 last=0x00
+
+[UART-ERR] count=4877 last=0x00
+
+[UART-ERR] count=4878 last=0x00
+
+[UART-ERR] count=4879 last=0x00
+
+[UART-ERR] count=4880 last=0x00
+
+[UART-ERR] count=4881 last=0x00
+
+[UART-ERR] count=4882 last=0x00
+
+[UART-ERR] count=4883 last=0x00
+
+[UART-ERR] count=4884 last=0x00
+
+[UART-ERR] count=4885 last=0x00
+
+[UART-ERR] count=4886 last=0x00
+
+[UART-ERR] count=4887 last=0x00
+
+[UART-ERR] count=4888 last=0x00
+
+[UART-ERR] count=4889 last=0x00
+
+[UART-ERR] count=4890 last=0x00
+
+[UART-ERR] count=4891 last=0x00
+
+[UART-ERR] count=4892 last=0x00
+
+[UART-ERR] count=4893 last=0x00
+
+[UART-ERR] count=4894 last=0x00
+
+[UART-ERR] count=4895 last=0x00
+
+[UART-ERR] count=4896 last=0x00
+
+[UART-ERR] count=4897 last=0x00
+
+[UART-ERR] count=4898 last=0x00
+
+[UART-ERR] count=4899 last=0x00
+
+[UART-ERR] count=4900 last=0x00
+
+[UART-ERR] count=4901 last=0x00
+
+[UART-ERR] count=4902 last=0x00
+
+[UART-ERR] count=4903 last=0x00
+
+[UART-ERR] count=4904 last=0x00
+
+[UART-ERR] count=4905 last=0x00
+
+[UART-ERR] count=4906 last=0x00
+
+[UART-ERR] count=4907 last=0x00
+
+[UART-ERR] count=4908 last=0x00
+
+[UART-ERR] count=4909 last=0x00
+
+[UART-ERR] count=4910 last=0x00
+
+[UART-ERR] count=4911 last=0x00
+
+[UART-ERR] count=4912 last=0x00
+
+[UART-ERR] count=4913 last=0x00
+
+[UART-ERR] count=4914 last=0x00
+
+[UART-ERR] count=4915 last=0x00
+
+[UART-ERR] count=4916 last=0x00
+
+[UART-ERR] count=4917 last=0x00
+
+[UART-ERR] count=4918 last=0x00
+
+[UART-ERR] count=4919 last=0x00
+
+[UART-ERR] count=4920 last=0x00
+
+[UART-ERR] count=4921 last=0x00
+
+[UART-ERR] count=4922 last=0x00
+
+[UART-ERR] count=4923 last=0x00
+
+[UART-ERR] count=4924 last=0x00
+
+[UART-ERR] count=4925 last=0x00
+
+[UART-ERR] count=4926 last=0x00
+
+[UART-ERR] count=4927 last=0x00
+
+[UART-ERR] count=4928 last=0x00
+
+[UART-ERR] count=4929 last=0x00
+
+[UART-ERR] count=4930 last=0x00
+
+[UART-ERR] count=4931 last=0x00
+
+[UART-ERR] count=4932 last=0x00
+
+[UART-ERR] count=4933 last=0x00
+
+[UART-ERR] count=4934 last=0x00
+
+[UART-ERR] count=4935 last=0x00
+
+[UART-ERR] count=4936 last=0x00
+
+[UART-ERR] count=4937 last=0x00
+
+[UART-ERR] count=4938 last=0x00
+
+[UART-ERR] count=4939 last=0x00
+
+[UART-ERR] count=4940 last=0x00
+
+[UART-ERR] count=4941 last=0x00
+
+[UART-ERR] count=4942 last=0x00
+
+[UART-ERR] count=4943 last=0x00
+
+[UART-ERR] count=4944 last=0x00
+
+[UART-ERR] count=4945 last=0x00
+
+[UART-ERR] count=4946 last=0x00
+
+[UART-ERR] count=4947 last=0x00
+
+[UART-ERR] count=4948 last=0x00
+
+[UART-ERR] count=4949 last=0x00
+
+[UART-ERR] count=4950 last=0x00
+
+[UART-ERR] count=4951 last=0x00
+
+[UART-ERR] count=4952 last=0x00
+
+[UART-ERR] count=4953 last=0x00
+
+[UART-ERR] count=4954 last=0x00
+
+[UART-ERR] count=4955 last=0x00
+
+[UART-ERR] count=4956 last=0x00
+
+[UART-ERR] count=4957 last=0x00
+
+[UART-ERR] count=4958 last=0x00
+
+[UART-ERR] count=4959 last=0x00
+
+[UART-ERR] count=4960 last=0x00
+
+[UART-ERR] count=4961 last=0x00
+
+[UART-ERR] count=4962 last=0x00
+
+[UART-ERR] count=4963 last=0x00
+
+[UART-ERR] count=4964 last=0x00
+
+[UART-ERR] count=4965 last=0x00
+
+[UART-ERR] count=4966 last=0x00
+
+[UART-ERR] count=4967 last=0x00
+
+[UART-ERR] count=4968 last=0x00
+
+[UART-ERR] count=4969 last=0x00
+
+[UART-ERR] count=4970 last=0x00
+
+[UART-ERR] count=4971 last=0x00
+
+[UART-ERR] count=4972 last=0x00
+
+[UART-ERR] count=4973 last=0x00
+
+[UART-ERR] count=4974 last=0x00
+
+[UART-ERR] count=4975 last=0x00
+
+[UART-ERR] count=4976 last=0x00
+
+[UART-ERR] count=4977 last=0x00
+
+[UART-ERR] count=4978 last=0x00
+
+[UART-ERR] count=4979 last=0x00
+
+[UART-ERR] count=4980 last=0x00
+
+[UART-ERR] count=4981 last=0x00
+
+[UART-ERR] count=4982 last=0x00
+
+[UART-ERR] count=4983 last=0x00
+
+[UART-ERR] count=4984 last=0x00
+
+[UART-ERR] count=4985 last=0x00
+
+[UART-ERR] count=4986 last=0x00
+
+[UART-ERR] count=4987 last=0x00
+
+[UART-ERR] count=4988 last=0x00
+
+[UART-ERR] count=4989 last=0x00
+
+[UART-ERR] count=4990 last=0x00
+
+[UART-ERR] count=4991 last=0x00
+
+[UART-ERR] count=4992 last=0x00
+
+[UART-ERR] count=4993 last=0x00
+
+[UART-ERR] count=4994 last=0x00
+
+[UART-ERR] count=4995 last=0x00
+
+[UART-ERR] count=4996 last=0x00
+
+[UART-ERR] count=4997 last=0x00
+
+[UART-ERR] count=4998 last=0x00
+
+[UART-ERR] count=4999 last=0x00
+
+[UART-ERR] count=5000 last=0x00
+
+[UART-ERR] count=5001 last=0x00
+
+[UDP-TX] seq=120 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=120
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=121 tipo=CID cuenta=2800 calif=R evento=356 part=00 zona=000
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=121
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=122 tipo=CID cuenta=2800 calif=E evento=385 part=58 zona=000
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=122
+
+[UDP-TX] seq=123 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=123
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=124 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=124
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=125 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=125
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=126 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=126
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=127 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=127
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=128 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=128
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=129 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=129
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=130 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=130
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=131 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=131
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=132 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=132
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=133 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=133
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+[TX-STATUS] AT+CCLK?
+ -> 0
+
+[LINE]: +CCLK: "26/07/22,09:25:58-12"
+
+[LINE]: OK
+
+[UDP-TX] seq=134 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=134
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=135 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=135
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=136 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=136
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=137 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=137
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=138 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=138
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=139 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=139
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=140 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=140
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=141 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=141
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=142 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=142
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=143 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=143
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=144 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=144
+
+[UDP-TX] seq=145 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=145
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=146 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=146
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=147 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=147
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=148 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=148
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=149 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=149
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=150 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=150
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=151 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=151
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=152 tipo=CID cuenta=2800 calif=E evento=356 part=00 zona=002
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=153 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=154 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=155 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=156 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=157 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=158 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=159 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=160 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UDP-TX] seq=161 tipo=CID-RETRY cuenta=2800 numabo=0x01 alarm=0x20 status=0xFC mem=0x23
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=161
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=162 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=163 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=164 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=165 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=166 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=167 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=168 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=168
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=169 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=169
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=170 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UART-ERR] count=5002 last=0x00
+
+[UART-ERR] count=5003 last=0x00
+
+[UART-ERR] count=5004 last=0x00
+
+[UART-ERR] count=5005 last=0x00
+
+[UART-ERR] count=5006 last=0x00
+
+[UART-ERR] count=5007 last=0x00
+
+[UART-ERR] count=5008 last=0x00
+
+[UART-ERR] count=5009 last=0x00
+
+[UART-ERR] count=5010 last=0x00
+
+[UART-ERR] count=5011 last=0x00
+
+[UART-ERR] count=5012 last=0x00
+
+[UART-ERR] count=5013 last=0x00
+
+[UART-ERR] count=5014 last=0x00
+
+[UART-ERR] count=5015 last=0x00
+
+[UART-ERR] count=5016 last=0x00
+
+[UART-ERR] count=5017 last=0x00
+
+[UART-ERR] count=5018 last=0x00
+
+[UART-ERR] count=5019 last=0x00
+
+[UART-ERR] count=5020 last=0x00
+
+[UART-ERR] count=5021 last=0x00
+
+[UART-ERR] count=5022 last=0x00
+
+[UART-ERR] count=5023 last=0x00
+
+[UART-ERR] count=5024 last=0x00
+
+[UART-ERR] count=5025 last=0x00
+
+[UART-ERR] count=5026 last=0x00
+
+[UART-ERR] count=5027 last=0x00
+
+[UART-ERR] count=5028 last=0x00
+
+[UART-ERR] count=5029 last=0x00
+
+[UART-ERR] count=5030 last=0x00
+
+[UART-ERR] count=5031 last=0x00
+
+[UART-ERR] count=5032 last=0x00
+
+[UART-ERR] count=5033 last=0x00
+
+[UART-ERR] count=5034 last=0x00
+
+[UART-ERR] count=5035 last=0x00
+
+[UART-ERR] count=5036 last=0x00
+
+[UART-ERR] count=5037 last=0x00
+
+[UART-ERR] count=5038 last=0x00
+
+[UART-ERR] count=5039 last=0x00
+
+[UART-ERR] count=5040 last=0x00
+
+[UART-ERR] count=5041 last=0x00
+
+[UART-ERR] count=5042 last=0x00
+
+[UART-ERR] count=5043 last=0x00
+
+[UART-ERR] count=5044 last=0x00
+
+[UART-ERR] count=5045 last=0x00
+
+[UART-ERR] count=5046 last=0x00
+
+[UART-ERR] count=5047 last=0x00
+
+[UART-ERR] count=5048 last=0x00
+
+[UART-ERR] count=5049 last=0x00
+
+[UART-ERR] count=5050 last=0x00
+
+[UART-ERR] count=5051 last=0x00
+
+[UART-ERR] count=5052 last=0x00
+
+[UART-ERR] count=5053 last=0x00
+
+[UART-ERR] count=5054 last=0x00
+
+[UART-ERR] count=5055 last=0x00
+
+[UART-ERR] count=5056 last=0x00
+
+[UART-ERR] count=5057 last=0x00
+
+[UART-ERR] count=5058 last=0x00
+
+[UART-ERR] count=5059 last=0x00
+
+[UART-ERR] count=5060 last=0x00
+
+[UART-ERR] count=5061 last=0x00
+
+[UART-ERR] count=5062 last=0x00
+
+[UART-ERR] count=5063 last=0x00
+
+[UART-ERR] count=5064 last=0x00
+
+[UART-ERR] count=5065 last=0x00
+
+[UART-ERR] count=5066 last=0x00
+
+[UART-ERR] count=5067 last=0x00
+
+[UART-ERR] count=5068 last=0x00
+
+[UART-ERR] count=5069 last=0x00
+
+[UART-ERR] count=5070 last=0x00
+
+[UART-ERR] count=5071 last=0x00
+
+[UART-ERR] count=5072 last=0x00
+
+[UART-ERR] count=5073 last=0x00
+
+[UART-ERR] count=5074 last=0x00
+
+[UART-ERR] count=5075 last=0x00
+
+[UART-ERR] count=5076 last=0x00
+
+[UART-ERR] count=5077 last=0x00
+
+[UART-ERR] count=5078 last=0x00
+
+[UART-ERR] count=5079 last=0x00
+
+[UART-ERR] count=5080 last=0x00
+
+[UART-ERR] count=5081 last=0x00
+
+[UART-ERR] count=5082 last=0x00
+
+[UART-ERR] count=5083 last=0x00
+
+[UART-ERR] count=5084 last=0x00
+
+[UART-ERR] count=5085 last=0x00
+
+[UART-ERR] count=5086 last=0x00
+
+[UART-ERR] count=5087 last=0x00
+
+[UART-ERR] count=5088 last=0x00
+
+[UART-ERR] count=5089 last=0x00
+
+[UART-ERR] count=5090 last=0x00
+
+[UART-ERR] count=5091 last=0x00
+
+[UART-ERR] count=5092 last=0x00
+
+[UART-ERR] count=5093 last=0x00
+
+[UART-ERR] count=5094 last=0x00
+
+[UART-ERR] count=5095 last=0x00
+
+[UART-ERR] count=5096 last=0x00
+
+[UART-ERR] count=5097 last=0x00
+
+[UART-ERR] count=5098 last=0x00
+
+[UART-ERR] count=5099 last=0x00
+
+[UART-ERR] count=5100 last=0x00
+
+[UART-ERR] count=5101 last=0x00
+
+[UART-ERR] count=5102 last=0x00
+
+[UART-ERR] count=5103 last=0x00
+
+[UART-ERR] count=5104 last=0x00
+
+[UART-ERR] count=5105 last=0x00
+
+[UART-ERR] count=5106 last=0x00
+
+[UART-ERR] count=5107 last=0x00
+
+[UART-ERR] count=5108 last=0x00
+
+[UART-ERR] count=5109 last=0x00
+
+[UART-ERR] count=5110 last=0x00
+
+[UART-ERR] count=5111 last=0x00
+
+[UART-ERR] count=5112 last=0x00
+
+[UART-ERR] count=5113 last=0x00
+
+[UART-ERR] count=5114 last=0x00
+
+[UART-ERR] count=5115 last=0x00
+
+[UART-ERR] count=5116 last=0x00
+
+[UART-ERR] count=5117 last=0x00
+
+[UART-ERR] count=5118 last=0x00
+
+[UART-ERR] count=5119 last=0x00
+
+[UART-ERR] count=5120 last=0x00
+
+[UART-ERR] count=5121 last=0x00
+
+[UART-ERR] count=5122 last=0x00
+
+[UART-ERR] count=5123 last=0x00
+
+[UART-ERR] count=5124 last=0x00
+
+[UART-ERR] count=5125 last=0x00
+
+[UART-ERR] count=5126 last=0x00
+
+[UART-ERR] count=5127 last=0x00
+
+[UART-ERR] count=5128 last=0x00
+
+[UART-ERR] count=5129 last=0x00
+
+[UART-ERR] count=5130 last=0x00
+
+[UDP-TX] seq=171 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[UART-ERR] count=5131 last=0x00
+
+[UART-ERR] count=5132 last=0x00
+
+[UART-ERR] count=5133 last=0x00
+
+[UART-ERR] count=5134 last=0x00
+
+[UART-ERR] count=5135 last=0x00
+
+[UART-ERR] count=5136 last=0x00
+
+[UART-ERR] count=5137 last=0x00
+
+[UART-ERR] count=5138 last=0x00
+
+[UART-ERR] count=5139 last=0x00
+
+[UART-ERR] count=5140 last=0x00
+
+[UART-ERR] count=5141 last=0x00
+
+[UART-ERR] count=5142 last=0x00
+
+[UART-ERR] count=5143 last=0x00
+
+[UART-ERR] count=5144 last=0x00
+
+[UART-ERR] count=5145 last=0x00
+
+[UART-ERR] count=5146 last=0x00
+
+[UART-ERR] count=5147 last=0x00
+
+[UART-ERR] count=5148 last=0x00
+
+[UART-ERR] count=5149 last=0x00
+
+[UART-ERR] count=5150 last=0x00
+
+[UART-ERR] count=5151 last=0x00
+
+[UART-ERR] count=5152 last=0x00
+
+[UART-ERR] count=5153 last=0x00
+
+[UART-ERR] count=5154 last=0x00
+
+[UART-ERR] count=5155 last=0x00
+
+[UART-ERR] count=5156 last=0x00
+
+[UART-ERR] count=5157 last=0x00
+
+[UART-ERR] count=5158 last=0x00
+
+[UART-ERR] count=5159 last=0x00
+
+[UART-ERR] count=5160 last=0x00
+
+[UART-ERR] count=5161 last=0x00
+
+[UART-ERR] count=5162 last=0x00
+
+[UART-ERR] count=5163 last=0x00
+
+[UART-ERR] count=5164 last=0x00
+
+[UART-ERR] count=5165 last=0x00
+
+[UART-ERR] count=5166 last=0x00
+
+[UART-ERR] count=5167 last=0x00
+
+[UART-ERR] count=5168 last=0x00
+
+[UART-ERR] count=5169 last=0x00
+
+[UART-ERR] count=5170 last=0x00
+
+[UART-ERR] count=5171 last=0x00
+
+[UART-ERR] count=5172 last=0x00
+
+[UART-ERR] count=5173 last=0x00
+
+[UART-ERR] count=5174 last=0x00
+
+[UART-ERR] count=5175 last=0x00
+
+[UART-ERR] count=5176 last=0x00
+
+[UART-ERR] count=5177 last=0x00
+
+[UART-ERR] count=5178 last=0x00
+
+[UART-ERR] count=5179 last=0x00
+
+[UART-ERR] count=5180 last=0x00
+
+[UART-ERR] count=5181 last=0x00
+
+[UART-ERR] count=5182 last=0x00
+
+[UART-ERR] count=5183 last=0x00
+
+[UART-ERR] count=5184 last=0x00
+
+[UART-ERR] count=5185 last=0x00
+
+[UART-ERR] count=5186 last=0x00
+
+[UART-ERR] count=5187 last=0x00
+
+[UART-ERR] count=5188 last=0x00
+
+[UART-ERR] count=5189 last=0x00
+
+[UART-ERR] count=5190 last=0x00
+
+[UART-ERR] count=5191 last=0x00
+
+[UART-ERR] count=5192 last=0x00
+
+[UART-ERR] count=5193 last=0x00
+
+[UART-ERR] count=5194 last=0x00
+
+[UART-ERR] count=5195 last=0x00
+
+[UART-ERR] count=5196 last=0x00
+
+[UART-ERR] count=5197 last=0x00
+
+[UART-ERR] count=5198 last=0x00
+
+[UART-ERR] count=5199 last=0x00
+
+[UART-ERR] count=5200 last=0x00
+
+[UART-ERR] count=5201 last=0x00
+
+[UART-ERR] count=5202 last=0x00
+
+[UART-ERR] count=5203 last=0x00
+
+[UART-ERR] count=5204 last=0x00
+
+[UART-ERR] count=5205 last=0x00
+
+[UART-ERR] count=5206 last=0x00
+
+[UART-ERR] count=5207 last=0x00
+
+[UART-ERR] count=5208 last=0x00
+
+[UART-ERR] count=5209 last=0x00
+
+[UART-ERR] count=5210 last=0x00
+
+[UART-ERR] count=5211 last=0x00
+
+[UART-ERR] count=5212 last=0x00
+
+[UART-ERR] count=5213 last=0x00
+
+[UART-ERR] count=5214 last=0x00
+
+[UART-ERR] count=5215 last=0x00
+
+[UART-ERR] count=5216 last=0x00
+
+[UART-ERR] count=5217 last=0x00
+
+[UART-ERR] count=5218 last=0x00
+
+[UART-ERR] count=5219 last=0x00
+
+[UDP-TX] seq=172 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=172
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=173 tipo=CID cuenta=2800 calif=R evento=356 part=00 zona=000
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=173
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=174 tipo=CID cuenta=2800 calif=E evento=385 part=58 zona=000
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=174
+
+[UDP-TX] seq=175 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=175
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=176 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=176
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=177 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=177
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=178 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=178
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=179 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=179
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=180 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=180
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=181 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=181
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=182 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.111.217.188",57777
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.111.217.188:57777
+
+[URC][UDP RX]: RECV FROM:190.111.217.188:57777
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=182
+
+[LINE]: +CGEV: EPS PDN ACT 1
+[TIME 11110 ms] [URC]: +CGEV: EPS PDN ACT 1
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: ATE0
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 25,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CREG: 0,1
+[TX-STATUS] AT+CEREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CEREG: 0,1
+[TX-STATUS] AT+CGREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CGREG: 0,1
+[TX-STATUS] AT+CTZU=1 -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CCLK? -> 0
+
+[LINE]: OK
+
+[LINE]: +CCLK: "26/07/22,11:25:45-12"
+[TX-STATUS] AT+CPSI?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CGDCONT=1,"IP","internet.movistar.org.ar"
+ -> 0
+[LINE]: +CPSI: LTE,Online,722-07,0xB15C,128268432,65,EUTRAN-BAND4,2000,3,3,27,53,49,12
+
+[LINE]: OK
+[TX-STATUS] AT+NETOPEN
+ -> 0
+
+[LINE]: OK
+
+[LINE]: OK
+
+[LINE]: +NETOPEN: 0
+[TIME 21773 ms] [DNS] IP estatica ->  
+[TX-STATUS] AT+IPADDR
+ -> 0
+
+[LINE]: +IPADDR: 10.35.157.222
+
+[LINE]: OK
+
+[LINE]: +CGEV: NW PDN DEACT 1
+[TIME 20311 ms] [URC]: +CGEV: NW PDN DEACT 1
+[TX-STATUS] AT+NETCLOSE
+ -> 0
+[TIME 31434 ms] [PDN] DEACT -> NETCLOSE enviado
+
+[LINE]: +CIPEVENT: NETWORK CLOSED UNEXPECTEDLY
+
+[LINE]: +NETCLOSE: 2
+
+[LINE]: ERROR
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+
+[LINE]: +CGEV: EPS PDN ACT 1
+[TIME 11731 ms] [URC]: +CGEV: EPS PDN ACT 1
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: ATE0
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 27,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 26,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CREG: 0,1
+[TX-STATUS] AT+CEREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CEREG: 0,1
+[TX-STATUS] AT+CGREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CGREG: 0,1
+[TX-STATUS] AT+CTZU=1 -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CCLK? -> 0
+
+[LINE]: OK
+
+[LINE]: +CCLK: "26/07/22,11:33:06-12"
+[TX-STATUS] AT+CPSI?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CGDCONT=1,"IP","internet.movistar.org.ar"
+ -> 0
+[LINE]: +CPSI: LTE,Online,722-07,0xB15C,128268432,65,EUTRAN-BAND4,2000,3,3,23,54,51,8
+
+[LINE]: OK
+[TX-STATUS] AT+NETOPEN
+ -> 0
+
+[LINE]: OK
+
+[LINE]: OK
+
+[LINE]: +NETOPEN: 0
+[TX-STATUS] AT+CDNSCFG="8.8.8.8","1.1.1.1",0
+ -> 0
+
+[LINE]: OK
+[TIME 22548 ms] [DNS] Iniciando CDNSGIP -> gprs2.eyse.com
+[TX-STATUS] AT+CDNSGIP="gprs2.eyse.com"
+ -> 0
+
+[LINE]: +CGEV: NW PDN DEACT 1
+[TIME 20968 ms] [URC]: +CGEV: NW PDN DEACT 1
+[TX-STATUS] AT+NETCLOSE
+ -> 0
+[TIME 32712 ms] [PDN] DEACT -> NETCLOSE enviado
+
+[LINE]: +CIPEVENT: NETWORK CLOSED UNEXPECTEDLY
+
+[LINE]: +CDNSGIP: 0,10
+
+[LINE]: ERROR
+
+[LINE]: +NETCLOSE: 2
+
+[LINE]: ERROR
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,3
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,0
+
+[LINE]: OK
+
+[LINE]: +CGEV: EPS PDN ACT 1
+[TIME 144661 ms] [URC]: +CGEV: EPS PDN ACT 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: +CREG: 0,1
+[TX-STATUS] AT+CEREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CEREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 30,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: +CREG: 0,1
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CREG: 0,1
+[TX-STATUS] AT+CEREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CEREG: 0,1
+[TX-STATUS] AT+CGREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CGREG: 0,1
+[TX-STATUS] AT+CTZU=1 -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CCLK? -> 0
+
+[LINE]: OK
+
+[LINE]: +CCLK: "26/07/22,11:35:18-12"
+[TX-STATUS] AT+CPSI?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CGDCONT=1,"IP","internet.movistar.org.ar"
+ -> 0
+[LINE]: +CPSI: LTE,Online,722-07,0xB15C,228192919,64,EUTRAN-BAND5,2600,3,3,22,44,41,8
+
+[LINE]: OK
+[TX-STATUS] AT+NETOPEN
+ -> 0
+
+[LINE]: OK
+
+[LINE]: OK
+
+[LINE]: +NETOPEN: 0
+[TX-STATUS] AT+CDNSCFG="8.8.8.8","1.1.1.1",0
+ -> 0
+
+[LINE]: OK
+[TIME 155364 ms] [DNS] Iniciando CDNSGIP -> gprs2.eyse.com
+[TX-STATUS] AT+CDNSGIP="gprs2.eyse.com"
+ -> 0
+
+[LINE]: +CDNSGIP: 1,"gprs2.eyse.com","190.12.115.42"
+[TX-STATUS] AT+IPADDR
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +IPADDR: 10.40.192.174
+
+[LINE]: OK
+[TX-STATUS] ATE0
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CMEE=2
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CPIN?
+ -> 0
+
+[LINE]: +CPIN: READY
+[TX-STATUS] AT+CSQ
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CSQ: 22,99
+[TX-STATUS] AT+CFUN?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CFUN: 1
+[TX-STATUS] AT+CREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CREG: 0,1
+[TX-STATUS] AT+CEREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CEREG: 0,1
+[TX-STATUS] AT+CGREG?
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +CGREG: 0,1
+[TX-STATUS] AT+CTZU=1 -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CCLK? -> 0
+
+[LINE]: OK
+
+[LINE]: +CCLK: "26/07/22,11:35:23-12"
+[TX-STATUS] AT+CPSI?
+ -> 0
+
+[LINE]: OK
+[TX-STATUS] AT+CGDCONT=1,"IP","internet.movistar.org.ar"
+ -> 0
+[LINE]: +CPSI: LTE,Online,722-07,0xB15C,228192919,64,EUTRAN-BAND5,2600,3,3,21,44,40,6
+
+[LINE]: OK
+[TX-STATUS] AT+NETOPEN
+ -> 0
+
+[LINE]: OK
+
+[LINE]: +IP ERROR: Network is already opened
+
+[URC][IP ERROR]: +IP ERROR: Network is already opened
+[TIME 159415 ms] [DNS] IP estatica -> 190.12.115.42
+[TX-STATUS] AT+IPADDR
+ -> 0
+
+[LINE]: ERROR
+
+[LINE]: +IPADDR: 10.40.192.174
+
+[LINE]: OK
+[TX-STATUS] AT+CIPOPEN=0,"UDP","190.12.115.42",28036,0
+ -> 0
+[TIME 179572 ms] [CIPOPEN] AT+CIPOPEN=0,"UDP","190.12.115.42",28036,0
+
+[LINE]: +CIPOPEN: 0,0
+
+[UDP-TX] seq=1 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: OK
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=1
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFC][0x00][0x19]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=2 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFC mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=2
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[MODO] BRIDGE
++++readconf
+===== RUNTIME CONFIG =====
+config_version    : 1
+config_timestamp  : 
+serial_number     : 12345678
+phone_number      : 1151605741
+modem_account     : 1998
+panel_account     : 2800
+sms_password      : 1234
+config_password   : 5678
+apn_movistar      : internet.movistar.org.ar
+apn_claro         : igprs.claro.com.ar
+heartbeat_seconds : 60
+--- server[0] ---
+  domain : gprs2.eyse.com
+  ip     : 190.12.115.42
+  port   : 28036
+  proto  : UDP
+--- server[1] ---
+  domain : gprs0.eyse.com
+  ip     : 190.12.115.42
+  port   : 18023
+  proto  : UDP
+--- server[2] ---
+  domain : dgranz.is-an-engineer.com
+  ip     : 190.111.217.188
+  port   : 57777
+  proto  : UDP
+===========================
++++readconf
+===== RUNTIME CONFIG =====
+config_version    : 1
+config_timestamp  : 
+serial_number     : 12345678
+phone_number      : 1151605741
+modem_account     : 1998
+panel_account     : 2800
+sms_password      : 1234
+config_password   : 5678
+apn_movistar      : internet.movistar.org.ar
+apn_claro         : igprs.claro.com.ar
+heartbeat_seconds : 60
+--- server[0] ---
+  domain : gprs2.eyse.com
+  ip     : 190.12.115.42
+  port   : 28036
+  proto  : UDP
+--- server[1] ---
+  domain : gprs0.eyse.com
+  ip     : 190.12.115.42
+  port   : 18023
+  proto  : UDP
+--- server[2] ---
+  domain : dgranz.is-an-engineer.com
+  ip     : 190.111.217.188
+  port   : 57777
+  proto  : UDP
+===========================
++++at
+[MODO] NORMAL
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=3 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=3
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=4 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=4
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=5 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=5
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=6 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=6
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=7 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=7
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=8 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=8
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=9 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=9
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=10 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=10
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=11 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=11
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=12 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=12
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=13 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=13
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=14 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=14
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=15 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=15
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=16 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=16
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=17 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=17
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=18 tipo=CID cuenta=2800 calif=E evento=356 part=00 zona=002
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=18
+
+[UDP-TX] seq=19 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=19
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=20 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=20
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
+[RS232-ACK] enviado, status=0
+
+[UDP-TX] seq=21 tipo=CID cuenta=2800 calif=R evento=408 part=21 zona=000
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=21
+
+[UDP-TX] seq=22 tipo=HB cuenta=2800 numabo=0x02 alarm=0x1B status=0xFE mem=0x00
+[TX-STATUS] AT+CIPSEND=0,43,"190.12.115.42",28036
+ -> 0
+
+[LINE]: >
+
+[LINE]: OK
+
+[LINE]: +CIPSEND: 0,43,43
+
+[LINE]: RECV FROM:190.12.115.42:28036
+
+[URC][UDP RX]: RECV FROM:190.12.115.42:28036
+
+[LINE]: +IPD2
+
+[URC]
+
+[LINE]: @0
+
+[UDP-ACK] seq=22
+
+[HB-RX] @@HB[2800][0x02][0x1B][0xFE][0x00][0x1B]
+
+[RS232-ACK] enviado, status=0
+
