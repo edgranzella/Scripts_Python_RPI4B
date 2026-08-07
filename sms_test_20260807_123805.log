@@ -1,0 +1,79 @@
+[12:38:05.599] --  === SMS_test_tool  puerto=/dev/ttyACM0 baud=115200 ===
+[12:38:05.599] ==  BLOQUE 0 - Preparacion (SIN reset, para no borrar CNMI)
+[12:38:05.599] TX  AT
+[12:38:05.701] RX  AT
+[12:38:05.702] RX  OK
+[12:38:05.883] TX  AT+CMEE=2
+[12:38:05.983] RX  AT+CMEE=2
+[12:38:05.984] RX  OK
+[12:38:06.164] TX  AT+CFUN?
+[12:38:06.265] RX  AT+CFUN?
+[12:38:06.266] RX  +CFUN: 1
+[12:38:06.266] RX  OK
+[12:38:06.446] TX  AT+CREG?
+[12:38:06.547] RX  AT+CREG?
+[12:38:06.548] RX  +CREG: 0,1
+[12:38:06.548] RX  OK
+[12:38:06.729] ==  BLOQUE 1 - Prerrequisitos de SMS
+[12:38:06.729] TX  AT+CMGF=1
+[12:38:06.830] RX  AT+CMGF=1
+[12:38:06.830] RX  OK
+[12:38:07.010] TX  AT+CSCS="GSM"
+[12:38:07.111] RX  AT+CSCS="GSM"
+[12:38:07.111] RX  OK
+[12:38:07.292] TX  AT+CSCA?
+[12:38:07.392] RX  AT+CSCA?
+[12:38:07.393] RX  +CSCA: "+54320000001",145
+[12:38:07.393] RX  OK
+[12:38:07.574] TX  AT+CSMP=17,167,0,0
+[12:38:07.674] RX  AT+CSMP=17,167,0,0
+[12:38:07.675] RX  OK
+[12:38:07.855] TX  AT+CPMS?
+[12:38:07.956] RX  AT+CPMS?
+[12:38:07.957] RX  +CPMS: "SM",0,50,"SM",0,50,"SM",0,50
+[12:38:07.958] RX  OK
+[12:38:08.139] TX  AT+CPMS="SM","SM","SM"
+[12:38:08.240] RX  AT+CPMS="SM","SM","SM"
+[12:38:08.240] RX  +CPMS: 0,50,0,50,0,50
+[12:38:08.241] RX  OK
+[12:38:08.422] ==  BLOQUE 2 - Almacenamiento (limpieza)
+[12:38:08.422] --  Borrando TODOS los SMS almacenados (CMGD=1,4)...
+[12:38:08.426] TX  AT+CMGD=1,4
+[12:38:08.527] RX  AT+CMGD=1,4
+[12:38:08.527] RX  OK
+[12:38:08.708] TX  AT+CPMS?
+[12:38:08.810] RX  AT+CPMS?
+[12:38:08.811] RX  +CPMS: "SM",0,50,"SM",0,50,"SM",0,50
+[12:38:08.811] RX  OK
+[12:38:08.994] ==  BLOQUE 3 - Notificacion de SMS entrante (CNMI)
+[12:38:08.994] TX  AT+CNMI=2,1,0,0,0
+[12:38:09.095] RX  AT+CNMI=2,1,0,0,0
+[12:38:09.096] RX  OK
+[12:38:09.277] TX  AT+CNMI?
+[12:38:09.378] RX  AT+CNMI?
+[12:38:09.378] RX  +CNMI: 2,1,0,0,0
+[12:38:09.378] RX  OK
+[12:38:09.559] ==  BLOQUE 4 - TX (envio de SMS)
+[12:38:09.559] TX  AT+CMGS="+5491156320411"
+[12:38:09.660] RX  AT+CMGS="+5491156320411"
+[12:38:09.840] RX  > 
+[12:38:09.841] TX  <sms> Test BKP-A7670 TX 12:38:09 <Ctrl+Z>
+[12:38:13.073] RX  Test BKP-A7670 TX 12:38:09
+[12:38:13.073] RX  +CMGS: 14
+[12:38:13.073] RX  OK
+[12:38:13.254] --  SMS aceptado por la red. Referencia=14. Verifica que llegue a +5491156320411.
+[12:38:13.254] ==  BLOQUE 5 - RX (recepcion de SMS)
+[12:38:13.255] !!  >>> AHORA responde un SMS desde el telefono destino. Esperando hasta 300s... <<<
+[12:43:13.260] !!  No llego ningun SMS en la ventana de espera.
+[12:43:13.261] ==  RESUMEN - Prueba de SMS
+[12:43:13.261]     Registrado en red         : SI
+[12:43:13.261]     SMSC (CSCA)               : +54320000001
+[12:43:13.261]     Almacenamiento SIM        : 0/50
+[12:43:13.261]     TX aceptado (ref +CMGS)   : 14
+[12:43:13.261]     RX recibido               : NO
+[12:43:13.261] ==  INTERPRETACION
+[12:43:13.262]     TX anda pero RX no. Causas tipicas:
+[12:43:13.262]       -> CNMI borrado por un CRESET/CFUN previo (este test ya lo re-setea).
+[12:43:13.262]       -> Verificar que el destino realmente haya respondido dentro de la ventana.
+[12:43:13.262]     Recorda: el SMS NO depende del plan de datos, del APN ni de NETOPEN.
+[12:43:13.262] --  Log guardado en: sms_test_20260807_123805.log
